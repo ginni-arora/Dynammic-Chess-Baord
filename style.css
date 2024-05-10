@@ -1,0 +1,16 @@
+#chessboard{
+    border: 5px solid blue;
+    padding: 20px;
+    margin: 0 auto;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
